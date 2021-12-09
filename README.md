@@ -1,2 +1,2 @@
 # Git-Github
-# Quais as ventagens de Git e Github
+# Quais as vantagens de Git e Github
